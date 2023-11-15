@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  In-Class Activity Pro IPhone Ch7 Translating with Localization
+
+  Created by Student Account on 11/8/23.
+  
+*/
+"greeting-label %@" = "Hola %@!";
+"button-label" = "Tocame";
+"%lld buttonResult" = "Has tocado el botón %lld veces";
+"placeholder-label" = "Nombre aquí";
+"pi-label %lf" = "Valor de pi = %lf";
